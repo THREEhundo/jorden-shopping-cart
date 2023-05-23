@@ -42,7 +42,7 @@ const StoreItem = ({ id, name, price, imgUrl }: StoreItemProps) => {
 								<span className='fs-3'>{quantity}</span>
 								<Button variant='outline-primary'>+</Button>
 							</div>
-							<Button variant='danger' size='small'>
+							<Button variant='outline-danger' size='sm'>
 								Remove
 							</Button>
 						</div>
