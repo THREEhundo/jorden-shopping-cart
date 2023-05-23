@@ -6,9 +6,9 @@ const Store = () => {
 	return (
 		<>
 			<h1>Store</h1>
-			<Row>
+			<Row xs={1} md={2} lg={3}>
 				{storeItems.map(item => (
-					<Col md={2} lg={3} xs={1}>
+					<Col key={item.id} className='g-3'>
 						<StoreItem {...item} />
 					</Col>
 				))}
