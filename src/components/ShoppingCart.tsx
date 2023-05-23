@@ -12,7 +12,7 @@ const ShoppingCart = ({ isOpen }: ShoppingCartProps) => {
 		<Offcanvas
 			className='bg-dark'
 			show={isOpen}
-			onHide={cartClose}
+			onHide={closeCart}
 			placement='end'>
 			<Offcanvas.Header closeButton>
 				<Offcanvas.Title>Cart</Offcanvas.Title>
