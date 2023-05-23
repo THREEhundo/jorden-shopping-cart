@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"model": "Air Jordan 1",
+		"name": "Spider-Man Across the Spiderverse",
+		"price": 344.99,
+		"imgUrl": "/assets/Air-Jordan-1-High-OG-Spider-Man-Across-the-Spider-Verse-GS.webp"
+	},
+	{
+		"id": 2,
+		"model": "Air Jordan 1",
+		"name": "Bred Patent Leather",
+		"price": 299.99,
+		"imgUrl": "/assets/Air-Jordan-1-Retro-High-OG-Bred-Patent-GS-Product.webp"
+	},
+	{
+		"id": 3,
+		"model": "Air Jordan 1",
+		"name": "Lucky Green",
+		"price": 160.99,
+		"imgUrl": "/assets/Air-Jordan-1-Retro-High-OG-Lucky-Green-Product.webp"
+	},
+	{
+		"id": 4,
+		"model": "Air Jordan 1",
+		"name": "Bred Patent Leather",
+		"price": 350.99,
+		"imgUrl": "/assets/Air-Jordan-1-Retro-High-Origin-Story-1.webp"
+	},
+]
