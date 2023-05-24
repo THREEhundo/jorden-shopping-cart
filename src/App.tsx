@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import { Container } from 'react-bootstrap'
 import Home from './pages/Home'
