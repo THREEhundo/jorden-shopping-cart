@@ -3,7 +3,7 @@ A shopping cart that allows the user to update items in cart and utilizes localS
 
 **Link to project:** https://tangerine-ganache-9cb834.netlify.app/
 
-![Shopping Cart Preview](https://imgur.com/Ba6WB0o)
+![Shopping Cart Preview](public/assets/screenshot.png)
 
 ## How It's Made:
 
