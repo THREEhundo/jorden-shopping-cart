@@ -1,7 +1,7 @@
 # Shopping Cart
 A shopping cart that allows the user to update items in cart and utilizes localStorage for persistence.
 
-**Link to project:** https://tangerine-ganache-9cb834.netlify.app/
+**Link to project:** [Shopping Cart](https://tangerine-ganache-9cb834.netlify.app/)
 
 ![Shopping Cart Preview](public/assets/screenshot.png)
 
