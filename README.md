@@ -9,7 +9,7 @@ A shopping cart that allows the user to update items in cart and utilizes localS
 
 **Tech used:** HTML, CSS, JavaScript, React, Vite, TypeScript & Bootstrap
 
-A straight forward shopping cart application with the primary focus of learning more about TypeScript.
+A straight forward responsive shopping cart  with the primary focus of learning TypeScript.
 
 ## Optimizations
 
